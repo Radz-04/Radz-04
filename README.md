@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/radzivon-ferrigni-dioguardi-b4095a376/)
 [![GitHub repositories](https://img.shields.io/badge/GitHub-My_repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Radz-04?tab=repositories)
 
-I'm **Radzivon Ferrigni Dioguardi**. I work on labs, write study notes and document security exercises. This profile brings that work together, from configuring a Syslog server to working through Hack The Box machines.
+I'm Radzivon Ferrigni Dioguardi. Here I share my projects, study notes and security lab write-ups
 
 [Background](#background) · [Projects](#projects) · [Toolkit](#toolkit) · [Currently](#currently) · [Contact](#contact)
 
