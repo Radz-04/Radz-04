@@ -32,7 +32,7 @@ My reference notes on Linux architecture, permissions, networking, security fund
 
 Security lab walkthroughs in Italian, with commands and explanations. The collection currently includes Hack The Box's **Expressway**.
 
-`Hack The Box` · `Write-ups`
+`Hack The Box` · `Write-ups` · `Try Hack Me`
 
 ### [AES File Encryption](https://github.com/Radz-04/aes-file-encryption)
 
