@@ -1,6 +1,6 @@
-# Hey, I'm Radzivon.
+# Hello, I'm Radzivon.
 
-**Cybersecurity graduate · Bari, Italy**
+** Bari, Italy**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square)](https://www.linkedin.com/in/radzivon-ferrigni-dioguardi-b4095a376/)
 [![GitHub repositories](https://img.shields.io/badge/GitHub-My_repositories-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Radz-04?tab=repositories)
